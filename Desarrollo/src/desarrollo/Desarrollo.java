@@ -15,9 +15,6 @@ public class Desarrollo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //dario ramirez
-        //javier
-        //edison chisaguano
-        //luis bustillos
+        
     }
 }
